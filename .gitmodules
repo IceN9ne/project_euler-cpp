@@ -1,0 +1,3 @@
+[submodule "ice9-cpp"]
+	path = ice9-cpp
+	url = https://github.com/IceN9ne/ice9-cpp
